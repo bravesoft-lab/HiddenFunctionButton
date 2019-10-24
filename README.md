@@ -29,8 +29,8 @@ func hiddenFunctionButton(_ didFiredFunction: HiddenFunctionButton) {
 検知する秒数とタップの回数は変更することができます。
 ```
 // 3秒以内に5回タップで反応
-hiddenButton.interval = 3 // 3秒
-hiddenButton.maxCount = 5 // 5回
+hiddenButton.interval = 3
+hiddenButton.maxCount = 5
 ```
 
 ## ライセンス
